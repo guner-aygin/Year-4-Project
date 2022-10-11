@@ -1,5 +1,4 @@
 # Year-4-Project
 Master's Project on Stellar Activity Prediction using Probabilistic Machine Learning
 
-Author ~ Guner Aygin
-Supervisor ~ Dr Guy Davies
+This project is due to finish around May 2023. The goal for this project is to develop machine learning techniques and apply them to Solar Acticity data, which shows how the number of sunspots on the Sun varies over time, to predict future Solar Cycles. 
